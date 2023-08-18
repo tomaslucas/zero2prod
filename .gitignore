@@ -18,3 +18,4 @@ Cargo.lock
 
 # My own things:
 note.md
+**/*.DS_Store
